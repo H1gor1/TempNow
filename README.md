@@ -5,7 +5,9 @@
 ### Status do Projeto
 
 <h4 align="center"> 
-	🚧  TempNow 🌧 Em construção...  🚧
+	🚧  TempNow 🌧 Em Beta...  🚧
+	<br />
+	<a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40h1gor/TempNow-50249b7d0f7142419b5bb134fbb2168c-signed.apk">Download APK</a>
 </h4>
 
 ### Screenshot
