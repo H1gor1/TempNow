@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "ClimaTempo",
-    "slug": "ClimaTempo",
-    "version": "1.0.0",
+    "name": "TempNow",
+    "slug": "TempNow",
+    "version": "1.0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "githubUrl":"https://github.com/H1gor1248/TempNow",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#E5DCDC"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,12 +18,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.h1gor.tempnow"
+      
     },
     "android": {
+      "package": "com.h1gor.tempnow",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#E5DCDC"
       }
     },
     "web": {

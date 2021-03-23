@@ -130,7 +130,8 @@ const styles = StyleSheet.create({
         marginLeft: 15,
         alignSelf: 'flex-start',
         alignItems: 'center',
-        marginBottom:10
+        marginBottom:12,
+        marginTop: 10,
     },
     searchBox: {
         alignItems: 'center',
